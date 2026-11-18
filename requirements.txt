@@ -1,0 +1,12 @@
+# Manipulación y análisis de datos
+numpy
+pandas
+
+# Estadística y análisis multivariante
+scipy
+scikit-learn
+statsmodels
+
+# Visualización de datos
+matplotlib
+seaborn
