@@ -10,3 +10,4 @@ statsmodels
 # Visualización de datos
 matplotlib
 seaborn
+geopandas

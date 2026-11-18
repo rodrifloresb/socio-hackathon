@@ -19,5 +19,11 @@ dim2:
 dim3:
 	$(PYTHON) scripts/ind_dim3.py
 
+graph_vul:
+	$(PYTHON) scripts/graph_vul.py
+
+map_vul:
+	.venv/bin/python scripts/map_vul.py
+
 clean:
 	rm -rf $(VENV)
