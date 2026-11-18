@@ -54,7 +54,7 @@ df_dim1 = pd.DataFrame({
     "Departamento": departamentos,
     "Def_Centro_Jubilados": data[:, 0],
     "nivel_contencion_familiar": data[:, 1],
-    "bienestar_estructural": np.round(integracion_social, 3)
+    "integracion_social": np.round(integracion_social, 3)
 })
 
 # Apunta siempre a la carpeta data/ en la raíz del proyecto
