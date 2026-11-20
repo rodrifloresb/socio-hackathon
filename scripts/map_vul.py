@@ -21,10 +21,32 @@ departamentos = [
 ]
 
 data = np.array([
-    [0.640], [0.351], [0.589], [0.627], [0.663], [0.517], [0.665], [0.542],
-    [0.555], [0.688], [0.698], [0.574], [0.541], [0.564], [0.489], [0.749],
-    [0.576], [0.622], [0.596], [0.548], [0.604], [0.555], [0.549], [0.591],
-    [0.588], [0.551]
+    [0.660],   # Calamuchita
+    [0.337],   # Capital
+    [0.592],   # Colón
+    [0.641],   # Cruz del Eje
+    [0.690],   # General Roca
+    [0.532],   # General San Martín
+    [0.676],   # Ischilín
+    [0.552],   # Juárez Celman
+    [0.572],   # Marcos Juárez
+    [0.695],   # Minas
+    [0.718],   # Pocho
+    [0.597],   # Presidente Roque Sáenz Peña
+    [0.540],   # Punilla
+    [0.580],   # Río Cuarto
+    [0.488],   # Río Primero
+    [0.773],   # Río Seco
+    [0.598],   # Río Segundo
+    [0.631],   # San Alberto
+    [0.607],   # San Javier
+    [0.564],   # San Justo
+    [0.615],   # Santa María
+    [0.579],   # Sobremonte
+    [0.571],   # Tercero Arriba
+    [0.599],   # Totoral
+    [0.611],   # Tulumba
+    [0.576],   # Unión
 ])
 
 promedio = np.mean(data)  # 0.585846

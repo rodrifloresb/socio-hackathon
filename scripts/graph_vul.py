@@ -15,32 +15,32 @@ departamentos = [
 
 # Índice de vulnerabilidad
 data = np.array([
-    [0.640],   # Calamuchita
-    [0.351],   # Capital
-    [0.589],   # Colón
-    [0.627],   # Cruz del Eje
-    [0.663],   # General Roca
-    [0.517],   # General San Martín
-    [0.665],   # Ischilín
-    [0.542],   # Juárez Celman
-    [0.555],   # Marcos Juárez
-    [0.688],   # Minas
-    [0.698],   # Pocho
-    [0.574],   # Presidente Roque Sáenz Peña
-    [0.541],   # Punilla
-    [0.564],   # Río Cuarto
-    [0.489],   # Río Primero
-    [0.749],   # Río Seco
-    [0.576],   # Río Segundo
-    [0.622],   # San Alberto
-    [0.596],   # San Javier
-    [0.548],   # San Justo
-    [0.604],   # Santa María
-    [0.555],   # Sobremonte
-    [0.549],   # Tercero Arriba
-    [0.591],   # Totoral
-    [0.588],   # Tulumba
-    [0.551],   # Unión
+    [0.660],   # Calamuchita
+    [0.337],   # Capital
+    [0.592],   # Colón
+    [0.641],   # Cruz del Eje
+    [0.690],   # General Roca
+    [0.532],   # General San Martín
+    [0.676],   # Ischilín
+    [0.552],   # Juárez Celman
+    [0.572],   # Marcos Juárez
+    [0.695],   # Minas
+    [0.718],   # Pocho
+    [0.597],   # Presidente Roque Sáenz Peña
+    [0.540],   # Punilla
+    [0.580],   # Río Cuarto
+    [0.488],   # Río Primero
+    [0.773],   # Río Seco
+    [0.598],   # Río Segundo
+    [0.631],   # San Alberto
+    [0.607],   # San Javier
+    [0.564],   # San Justo
+    [0.615],   # Santa María
+    [0.579],   # Sobremonte
+    [0.571],   # Tercero Arriba
+    [0.599],   # Totoral
+    [0.611],   # Tulumba
+    [0.576],   # Unión
 ])
 
 promedio = np.mean(data)  # 0.585846
