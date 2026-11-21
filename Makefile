@@ -25,5 +25,11 @@ graph_vul:
 map_vul:
 	.venv/bin/python scripts/map_vul.py
 
+map_informalidad:
+	.venv/bin/python scripts/map_informalidad.py
+
+apilado:
+	.venv/bin/python scripts/ind_vul_apilado.py
+
 clean:
 	rm -rf $(VENV)
